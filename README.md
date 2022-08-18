@@ -148,7 +148,8 @@ As there are no English dictionaries that contain sense inventories for multi-wo
 
 From a Wikipedia dump, we perform a 6-step procedure for mining a list of mNPs sorted descendingly by their likelihood of containing multiple senses. The most ambiguous 19,500 mNPs are then passed to experts for annotation and others for verification.
 
-The table below is **summary** of our 3-stage data construction. **p**, *s*, *m* *d*, *q*, *l* denote target phrase, sentence, metadata, document, query, and label, respectively. In this repository, we only focus on 6-step Data Collection method to prepare data for annotation. 
+The table below is **summary** of our 3-stage data construction. **p**, *s*, *m* *d*, *q*, *l* denote target phrase, sentence, metadata, document, query, and label, respectively. 
+*In this repository, we only focus on 6-step Data Collection method to prepare data for annotation.*
 
 [![PiC construct][pic-construct]](https://github.com/Phrase-in-Context/data-collection/)
 
